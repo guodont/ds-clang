@@ -4,10 +4,6 @@
 >思考
 >应用
 
-###目录
-
-```
-    link_list/      单链表结构
-    sequence_list/  顺序表结构
-    
-```
+##目录
++ [link_list/](link_list/)      单链表结构
++ [sequence_list/](sequence_list/)  顺序表结构
